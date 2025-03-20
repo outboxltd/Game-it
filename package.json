@@ -1,0 +1,20 @@
+{
+  "name": "space-adventure-game",
+  "version": "1.0.0",
+  "description": "A simple space adventure game for kids to learn programming",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "game",
+    "kids",
+    "education",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
